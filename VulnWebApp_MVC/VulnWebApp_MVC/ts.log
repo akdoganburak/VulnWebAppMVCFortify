@@ -1,0 +1,38 @@
+[2024-04-27 07:34:11.348 INFO  1470]
+Translating C:\Users\vmas\AppData\Local\Fortify\sca23.2\build\test\_fortify_libraries_\lib.js
+[2024-04-27 07:34:11.749 INFO  1450]
+Processing C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\js\site.js
+[2024-04-27 07:34:22.896 INFO  1450]
+Processing C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+[2024-04-27 07:34:33.960 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+[2024-04-27 07:34:33.962 INFO  12031]
+JavaScript library file skipped: C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js
+[2024-04-27 07:34:33.964 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js
+[2024-04-27 07:34:33.967 INFO  1450]
+Processing C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+[2024-04-27 07:34:34.404 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
+[2024-04-27 07:34:34.406 INFO  1450]
+Processing C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation\dist\additional-methods.js
+[2024-04-27 07:34:35.439 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js
+[2024-04-27 07:34:35.443 INFO  1450]
+Processing C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+[2024-04-27 07:34:37.091 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
+[2024-04-27 07:34:37.094 INFO  12031]
+JavaScript library file skipped: C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/jquery/dist/jquery.js
+[2024-04-27 07:34:37.095 INFO  12073]
+Skipped minified JS file C:/Fortify_SCA_Samples_23.2.0/advanced/csharp/VS2019/VulnWebApp_MVC/VulnWebApp_MVC/VulnWebApp_MVC/wwwroot/lib/jquery/dist/jquery.min.js
+[2024-04-27 07:34:37.119 INFO  1470]
+Translating C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\js\site.js
+[2024-04-27 07:34:37.202 INFO  1470]
+Translating C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+[2024-04-27 07:34:38.895 INFO  1470]
+Translating C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+[2024-04-27 07:34:39.006 INFO  1470]
+Translating C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation\dist\additional-methods.js
+[2024-04-27 07:34:39.169 INFO  1470]
+Translating C:\Fortify_SCA_Samples_23.2.0\advanced\csharp\VS2019\VulnWebApp_MVC\VulnWebApp_MVC\VulnWebApp_MVC\wwwroot\lib\jquery-validation\dist\jquery.validate.js
